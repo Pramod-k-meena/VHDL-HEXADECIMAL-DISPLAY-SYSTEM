@@ -56,9 +56,5 @@ A comprehensive truth table was developed to define the relationship between the
 
 ### Simulation Snapshots
 Simulation was performed on the following modules:
-- **top_entity**
-- **bcd_7**
-- **Timing_circuit**
-
-Embed the simulation snapshots in your README using the Markdown image syntax:
+Everthing in Report.pdf
 ```markdown
